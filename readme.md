@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  RESUME ABOUT DANYL BALAN
 </div>
 
 <br />
@@ -60,10 +60,8 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- WHAT IS THE PROJECT SEATWORK 2, RESUME
+- WHATS THE PURPOSE ABOUT MYSELF AND A PERSONAL RESUME
 
 ### Key Components
 <!-- TODO: List of Key Components -->
